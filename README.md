@@ -149,9 +149,9 @@ Este é o espaço onde compartilharei meus projetos, aprendizados e evolução c
 
 
 <img 
-      align="left" 
+      align="down" 
       alt="GitHub Stats" 
-      height="200" 
+      height="250" 
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereshitdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
